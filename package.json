@@ -6,13 +6,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node dist/index.js",
-    "start:dev": "cross-env PORT=2700 DEBUG=W7E* nodemon dist/index.js",
+    "start:dev": "cross-env PORT=2700 nodemon dist/index.js",
     "build": "tsc -w",
-    "test": "jest --watchAll --coverage",
-    "build:render": "tsc"
+    "build:render": "tsc",
+    "test": "jest --watchAll --coverage"
   },
   "keywords": [],
-  "author": "Alejandro Cerezo",
+  "author": "Carlos",
   "license": "ISC",
   "prettier": {
     "singleQuote": true

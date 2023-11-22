@@ -1,0 +1,28 @@
+{
+  "monuments": [
+    {
+      "id": 1,
+      "name": "Roman theatre",
+      "age": "16-15 a. C",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Teatro_de_M%C3%A9rida%2C_Espa%C3%B1a%2C_2017_18.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Diana Temple",
+      "age": "20 d. C",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Templo_de_Diana_en_M%C3%A9rida.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Trajan Arc",
+      "age": "30 d. C",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Merida_Arco_de_Trajano.JPG/1200px-Merida_Arco_de_Trajano.JPG"
+    },
+    {
+      "id": 4,
+      "name": "Aqueduct of the Miracles",
+      "age": "30 d. C",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/El_acueducto_de_Los_Milagros.jpg/220px-El_acueducto_de_Los_Milagros.jpg"
+    }
+  ]
+}
